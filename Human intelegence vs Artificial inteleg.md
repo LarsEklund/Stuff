@@ -1,8 +1,8 @@
-vs Artificial intelegence Accountability in publishing
+Human intelligence vs artificial intelligence
+  What counts as accountability in scientific publications
 
 Godmorning, todays talk is going to #Human intelegence vs Artificial intelegence Accountability in publishing.
  
-
 We will start talking about Human intelegence, human intelegence is according to Britnaica "mental quality that consists of the abilities to learn from experience, adapt to new situations, understand and handle abstract concepts, and use knowledge to manipulate one’s environment." The main part of that is our cognetive ability, The cognetive ability is generally located to the neocortex which can be seen as a stack of neurons which interconect in a dynamic network, The pattern recognintion teory of the mind(PRTM), common in cognetive psykology models our memories as interconnected neuron stacks of memories that is connected to pattern recogising clusters, these clusters help us recognise our stimuli based on previous experiencese and knowledge stored in our memories as compressed structures of linked memories which show similiar these patterns are then recognized as the input stimuli we precive. 
 An other very important concept in biology is the efficiency of imperfection and in all read and write operations in biology the "copying" is imperfect hass errors/variation and there for att each interaction with a memory it changes somewhat
 If we look att the modern ideas of Machine Learning and Neural networks these have been model based on PRTM and therfore simulate the though process. If we look at LLM each iteration of the statistical model sligthly changes the text. (check LLMs)
